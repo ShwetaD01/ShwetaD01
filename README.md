@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m SHweta
+- 👋 Hi, I’m Shweta
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently working as an Associate Software Engineer at Cogoport, Mumbai.
 - 🌱 I’m currently learning MERN Stack
